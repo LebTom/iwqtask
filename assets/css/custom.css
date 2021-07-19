@@ -1,0 +1,17 @@
+/*                            */
+/* IWQTask Custom CSS - begin */
+/*                            */
+
+tbody tr:hover{
+    background: #fff8f8;
+}
+.vw-15{
+    width: 15vw !important;
+}
+.mw-s{
+    max-width: 768px;
+}
+
+/*                          */
+/* IWQTask Custom CSS - end */
+/*                          */
